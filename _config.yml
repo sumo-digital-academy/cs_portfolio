@@ -315,7 +315,7 @@ atom_feed:
   
   
 sections:
-  portfolio_url: /ProgrammerPortfolio
-  about_url: /ProgrammerPortfolio/about
-  cv_url: /ProgrammerPortfolio/cv
-  course_url: /ProgrammerPortfolio/course
+  portfolio_url: /cs_portfolio
+  about_url: /cs_portfolio/about
+  cv_url: /cs_portfolio/cv
+  course_url: /cs_portfolio/course
