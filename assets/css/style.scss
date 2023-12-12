@@ -1,4 +1,16 @@
 ---
 ---
 
+// Green 'Bold' highlight
+.text-highlight {
+    color: rgb(181, 232, 83);
+    font-weight: bold;
+}
+
+// Blue 'Annotation' highlight
+.annotate-highlight {
+    color: rgb(100, 150, 250);
+    font-weight: bold;
+}
+
 @import 'jekyll-theme-hacker';

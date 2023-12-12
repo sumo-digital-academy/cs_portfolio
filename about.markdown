@@ -1,17 +1,10 @@
 ---
-annotation-link: https://www.example.com/about-annotations
+annotation-link: /cs_portfolio/about-a
 
 layout: default
 title: About Me
 permalink: /about/
 ---
-
-<style>
-  .text-highlight {
-    color: rgb(181, 232, 83);
-    font-weight: bold;
-  }
-</style>
 
 ![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png){: .align-center}
 

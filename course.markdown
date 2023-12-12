@@ -6,13 +6,6 @@ title: My Course
 permalink: /course/
 ---
 
-<style>
-  .text-highlight {
-    color: rgb(181, 232, 83);
-    font-weight: bold;
-  }
-</style>
-
 ![Course-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Course.png){: .align-center}
 
 # BSc Computer Science
@@ -54,9 +47,3 @@ permalink: /course/
 - Web and Internet Technology (Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)
 - Introduction to Algorithms and Data Structures (Includes: design and analysis of efficient algorithms and data structures)
 - Global Engineering Challenge Week (One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)
-
-
-
-
-
-<span class="text-highlight">test</span> 
