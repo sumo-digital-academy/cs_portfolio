@@ -13,7 +13,7 @@ permalink: /course/
   }
 </style>
 
-![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/image/Profile.png){: .align-center}
+![Course-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Course.png){: .align-center}
 
 # BSc Computer Science
 
