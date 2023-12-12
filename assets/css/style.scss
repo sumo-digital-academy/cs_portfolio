@@ -1,6 +1,13 @@
 ---
 ---
 
+// Align an element to center (images etc.)
+.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 // Green 'Bold' highlight
 .text-highlight {
     color: rgb(181, 232, 83);

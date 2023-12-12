@@ -8,8 +8,22 @@ permalink: /about/
 
 ![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png){: .align-center}
 
-I am a <span class="text-highlight">Sheffield</span> graduate with a passion for making videogames and a first class degree in <span class="text-highlight">Computer Science</span>. I enjoy playing videogames of all kinds of genres, but am a particular fan of Sackboy: A Big Adventure for PS5.
+## About Me
 
-I enjoy spending time outdoors, and am a keen rock climber and open-water swimmer in my free time. 
+My name is Jo and I'm a Computer Science student at the University of Sheffield with a huge passion for game development. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create mind-blowing gaming experiences for AAA games. This portfolio showcases <span class="text-highlight">my most up to date knowledge and skills</span> as I work towards becoming a programmer in the exciting world of game development.
 
-I have taken part in numerous game jams and team development projects and I believe that my ability to <span class="text-highlight">learn</span> and <span class="text-highlight">communicate</span> technical information makes me an asset to game teams. <span class="text-highlight">I enjoy working with other creative disciplines</span> and relish the creative partnerships in gamedev. I enjoy <span class="text-highlight">solving technical problems</span> in <span class="text-highlight">creative</span> ways and love to <span class="text-highlight">learn new things</span>, so I would particularly appreciate the opportunity to work in the ever-changing technological landscape of the video game industry. 
+## Independent Learner
+
+I've always been a <span class="text-highlight">self-directed learner</span> when it comes to technology. Outside of my degree I've been keen to tinker with different programming languages and game engines, picking up tools like Unreal Engine along the way.  I’ve contributed to open-source C++ projects to help gain a robust foundation in the core language of the games industry. My independent approach to learning has enhanced my technical skills and given me a <span class="text-highlight">proactive mindset  when it comes to navigating new technologies</span> which I believe will serve me well as a game programmer. 
+
+## Teamwork
+
+Participating in game jams has helped me to <span class="text-highlight">experience working in interdisciplinary teams</span> including artists, designers, and programmers. I've learned to navigate and contribute positively to a variety of team dynamics while crafting playable game prototypes within tight deadlines. This experience has taught me adaptability, open-mindedness and the importance of <span class="text-highlight">mutual respect to a collaborative creative process</span>. I would relish the opportunity to work in <span class="text-highlight">creative teams with diverse perspectives</span> in order to deliver innovative gaming experiences.
+
+## Wellbeing and Resilience
+
+My university journey has enabled me to develop my own strategies for looking after my <span class="text-highlight">wellbeing and remaining resilient</span>. I’ve achieved a successful balance in my academic studies through a mindful approach to maintaining mental and physical health. I prioritize <span class="text-highlight">self-care through regular exercise</span> and hobbies, and recognize the role of peers and support networks in managing stress. <span class="text-highlight">Efficient time management</span> is at the heart of my approach to achieving my goals without compromising personal wellbeing. 
+
+## Extra-curricular Activites
+
+Outside of my studies, I love playing 5-a-side football. It's a great way to stay active and improve my teamwork skills. I'm also a regular at a local board game club, which is a fantastic social activity where I get to relax and enjoy some strategic thinking with friends. These activities provide a healthy balance to my academic pursuits, keeping me refreshed and connected beyond the world of coding.
