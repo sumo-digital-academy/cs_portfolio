@@ -6,7 +6,7 @@ title: About Me
 permalink: /about-a/
 ---
 
-![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png){: .align-center}
+![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png)
 
 ## About Me
 

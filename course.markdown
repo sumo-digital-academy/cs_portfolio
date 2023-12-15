@@ -6,7 +6,7 @@ title: My Course
 permalink: /course/
 ---
 
-![Course-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Course.png){: .align-center}
+![Course-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Course.png)
 
 # BSc Computer Science
 

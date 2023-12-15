@@ -41,7 +41,7 @@ permalink: /
 
 <p class="project-title">Spoof Invaders: <span class="project-type">Pure C++ Project</span></p>
 
-![ScreenshotA-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png){: .align-center}
+![ScreenshotA-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
 
 <div class="project-desc" markdown="1">
 - A small C++ game coded completely by me
@@ -55,7 +55,7 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 
 <p class="project-title">AAA-mazing Grace: <span class="project-type">Unreal C++ Project</span></p>
 
-![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png){: .align-center}
+![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
 
 <div class="project-desc" markdown="1">
 - Group project: I coded the procedural maze generation
@@ -69,7 +69,7 @@ Access the GitHub repository with just my C++ code <a href="https://www.example.
 
 <p class="project-title">Indie-Spensable: <span class="project-type">Unity C# Project</span></p>
 
-![ScreenshotC-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png){: .align-center}
+![ScreenshotC-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
 
 <div class="project-desc" markdown="1">
 - Individual project coded completely by me
