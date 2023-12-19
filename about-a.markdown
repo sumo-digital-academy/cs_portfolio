@@ -8,15 +8,18 @@ permalink: /about-a/
 
 ![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png)
 
+<div class="annotate-highlight">
+It can be hard to know what an employer wants to know about you above and beyond your qualifications and work experience, but enthusiasm, self-direction, teamwork and resilience are all valuable attributes worth elaborating on when you have the opportunity to do so.
+<br>
+<br>
+</div>
+
 ## About Me
 
-My name is Jo and I'm a Computer Science student at the University of Sheffield with a huge passion for game development. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create mind-blowing gaming experiences for AAA games. This portfolio showcases <span class="text-highlight">my most up to date knowledge and skills</span> as I work towards becoming a programmer in the exciting world of game development.
+My name is Jo and I'm a Computer Science student at the University of Sheffield with a huge passion for game development. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create mind-blowing gaming experiences for AAA games. This portfolio showcases my most up to date knowledge and skills as I work towards becoming a programmer in the exciting world of game development.
 
 <div class="annotate-highlight">
-Any employer would expect you to express interest in the industry/company you are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.
-<br>
-<br>
-Your portfolio should showcase your most up to date knowledge and skills, and not everything you have ever done. Curate your best three pieces of work and throw out anything that isn’t your latest best work. Employers will probably only have time to look at one or two pieces of work so make sure they can find your best work immediately.
+Any employer would expect candidates to express enthusiasm for the industry/company they are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.
 <br>
 <br>
 </div>
