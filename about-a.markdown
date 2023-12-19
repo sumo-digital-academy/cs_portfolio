@@ -19,7 +19,7 @@ It can be hard to know what an employer wants to know about you above and beyond
 My name is Jo and I'm a Computer Science student at the University of Sheffield with a huge passion for game development. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create mind-blowing gaming experiences for AAA games. This portfolio showcases <span class="text-highlight">my most up to date knowledge and skills</span> as I work towards becoming a programmer in the exciting world of game development.
 
 <div class="annotate-highlight">
-Any employer would expect you to express interest in the industry/company you are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.
+Any employer would expect candidates to express enthusiasm for the industry/company they are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.
 <br>
 <br>
 </div>
