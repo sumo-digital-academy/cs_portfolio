@@ -8,13 +8,13 @@ permalink: /about-a/
 
 ![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png)
 
-## About Me
-
 <div class="annotate-highlight">
 It can be hard to know what an employer wants to know about you above and beyond your qualifications and work experience, but enthusiasm, self-direction, teamwork and resilience are all valuable attributes worth elaborating on when you have the opportunity to do so.
 <br>
 <br>
 </div>
+
+## About Me
 
 My name is Jo and I'm a Computer Science student at the University of Sheffield with a huge passion for game development. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create mind-blowing gaming experiences for AAA games. This portfolio showcases <span class="text-highlight">my most up to date knowledge and skills</span> as I work towards becoming a programmer in the exciting world of game development.
 
