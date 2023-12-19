@@ -1,9 +1,9 @@
 ---
-annotation-link: /cs_portfolio/index-a
+annotation-link: /cs_portfolio/index
 
 layout: default
 title: Portfolio
-permalink: /
+permalink: /index-a/
 ---
 
 <style>
@@ -50,6 +50,12 @@ permalink: /
 </div>
  
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
+
+<div class="annotate-highlight">
+This is a placeholder annotation.
+<br>
+<br>
+</div>
 
 ----------------------
 

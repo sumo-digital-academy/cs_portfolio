@@ -1,9 +1,9 @@
 ---
-annotation-link: /cs_portfolio/cv-a
+annotation-link: /cs_portfolio/cv
 
 layout: default
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /cv-a/
 
 author_profile : true
 ---
@@ -15,6 +15,11 @@ I am particularly adept at problem-solving and possess a keen analytical mindset
 
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of computer science.
 
+<div class="annotate-highlight">
+This is a placeholder annotation.
+<br>
+<br>
+</div>
 
 ## Work History
 ### Computer Company

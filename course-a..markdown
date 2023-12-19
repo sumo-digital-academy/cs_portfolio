@@ -1,9 +1,9 @@
 ---
-annotation-link: /cs_portfolio/course-a
+annotation-link: /cs_portfolio/course
 
 layout: default
 title: My Course
-permalink: /course/
+permalink: /course-a/
 ---
 
 ![Course-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Course.png)
@@ -14,6 +14,12 @@ permalink: /course/
 - Collaborated with a cross-functional team to design, implement, and test software solutions, gaining hands-on experience with industry-standard tools and methodologies.
 - Adapted quickly to the company's technology stack and coding standards, showcasing flexibility and a strong ability to learn on the job.
 - Worked effectively within an agile development environment, participating in daily stand-ups, sprint planning, and retrospective meetings to ensure project milestones were met.
+
+<div class="annotate-highlight">
+This is a placeholder annotation.
+<br>
+<br>
+</div>
 
 ### Year 3
 - Dissertation Project (One third of final year. Individual research project)
