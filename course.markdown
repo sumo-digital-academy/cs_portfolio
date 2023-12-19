@@ -16,34 +16,34 @@ permalink: /course/
 - Worked effectively within an agile development environment, participating in daily stand-ups, sprint planning, and retrospective meetings to ensure project milestones were met.
 
 ### Year 3
-- Dissertation Project (One third of final year. Individual research project)
-- Finance and Law for Engineers (introduce engineering students to key areas of financial and legal risk that engineers should be aware of in their working environment)
+- **Dissertation Project** <span class="module-description">(One third of final year. Individual research project)</span>
+- **Finance and Law for Engineers** <span class="module-description">(introduce engineering students to key areas of financial and legal risk that engineers should be aware of in their working environment)</span>
 
 #### Self-Elected Modules
--	3D Computer Graphics (techniques used in modern 3D computer graphics; Programming: Java, OpenGL, GLSL)
--	Computer Vision (Programming work uses deep learning tools)
--	Software Reengineering (how to reverse-engineer and appraise complex, unwieldy systems by implementing source code and execution analysis techniques; strategies that can be used to adapt and reengineer such systems to improve their quality and viability. Practical work using Git repositories)
--	Software Testing and Analysis (problems and techniques of analysing and testing software systems)
--	The Internet of Things (practical hands-on experience of common IoT devices; Practical work involves programming an IoT device and capturing and analysing data)
--	Software Development for Mobile Devices (Uses MVC or MVVM when developing software for mobile devices; Practical work develops skills with the Android platform)
--	Speech Processing (examines both the production and perception of speech, taking a multi-disciplinary approach)
+-	**3D Computer Graphics** <span class="module-description">(techniques used in modern 3D computer graphics; Programming: Java, OpenGL, GLSL)</span>
+-	**Computer Vision** <span class="module-description">(Programming work uses deep learning tools)</span>
+-	**Software Reengineering** <span class="module-description">(how to reverse-engineer and appraise complex, unwieldy systems by implementing source code and execution analysis techniques; strategies that can be used to adapt and reengineer such systems to improve their quality and viability. Practical work using Git repositories)</span>
+-	**Software Testing and Analysis** <span class="module-description">(problems and techniques of analysing and testing software systems)</span>
+-	**The Internet of Things** <span class="module-description">(practical hands-on experience of common IoT devices; Practical work involves programming an IoT device and capturing and analysing data)</span>
+-	**Software Development for Mobile Devices** <span class="module-description">(Uses MVC or MVVM when developing software for mobile devices; Practical work develops skills with the Android platform)</span>
+-	**Speech Processing** <span class="module-description">(examines both the production and perception of speech, taking a multi-disciplinary approach)</span>
 
 ### Year 2
-- Introduction to Software Engineering (Includes: practical experience in teamwork and managing software projects; Version control; Programming: Ruby;)
-- Foundations of Computer Science (Includes: Mathematical techniques that are the foundation for other computer science topics)
-- Java Programming (Includes: writing and testing well-structured and readable programs to solve problems; Programming: Java)
-- Machines and Intelligence (Includes: Intro to key concepts and problems in the field of AI; Lab classes include a range of things such as robotics and use of generative AI tools)
-- Devices and Networks (Includes: computer architecture and aspects of networks)
-- Web and Internet Technology (Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)
-- Introduction to Algorithms and Data Structures (Includes: design and analysis of efficient algorithms and data structures)
-- Global Engineering Challenge Week (One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)
+- **Introduction to Software Engineering** <span class="module-description">(Includes: practical experience in teamwork and managing software projects; Version control; Programming: Ruby;)</span>
+- **Foundations of Computer Science** <span class="module-description">(Includes: Mathematical techniques that are the foundation for other computer science topics)</span>
+- **Java Programming** <span class="module-description">(Includes: writing and testing well-structured and readable programs to solve problems; Programming: Java)</span>
+- **Machines and Intelligence** <span class="module-description">(Includes: Intro to key concepts and problems in the field of AI; Lab classes include a range of things such as robotics and use of generative AI tools)</span>
+- **Devices and Networks** <span class="module-description">(Includes: computer architecture and aspects of networks)</span>
+- **Web and Internet Technology** <span class="module-description">(Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)</span>
+- **Introduction to Algorithms and Data Structures** <span class="module-description">(Includes: design and analysis of efficient algorithms and data structures)</span>
+- **Global Engineering Challenge Week** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)</span>
 
 ### Year 1
-- Introduction to Software Engineering (Includes: practical experience in teamwork and managing software projects; Version control; Programming: Ruby;)
-- Foundations of Computer Science (Includes: Mathematical techniques that are the foundation for other computer science topics)
-- Java Programming (Includes: writing and testing well-structured and readable programs to solve problems; Programming: Java)
-- Machines and Intelligence (Includes: Intro to key concepts and problems in the field of AI; Lab classes include a range of things such as robotics and use of generative AI tools)
-- Devices and Networks (Includes: computer architecture and aspects of networks)
-- Web and Internet Technology (Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)
-- Introduction to Algorithms and Data Structures (Includes: design and analysis of efficient algorithms and data structures)
-- Global Engineering Challenge Week (One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)
+- **Introduction to Software Engineering** <span class="module-description">(Includes: practical experience in teamwork and managing software projects; Version control; Programming: Ruby;)</span>
+- **Foundations of Computer Science** <span class="module-description">(Includes: Mathematical techniques that are the foundation for other computer science topics)</span>
+- **Java Programming** <span class="module-description">(Includes: writing and testing well-structured and readable programs to solve problems; Programming: Java)</span>
+- **Machines and Intelligence** <span class="module-description">(Includes: Intro to key concepts and problems in the field of AI; Lab classes include a range of things such as robotics and use of generative AI tools)</span>
+- **Devices and Networks** <span class="module-description">(Includes: computer architecture and aspects of networks)</span>
+- **Web and Internet Technology** <span class="module-description">(Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)</span>
+- **Introduction to Algorithms and Data Structures** <span class="module-description">(Includes: design and analysis of efficient algorithms and data structures)</span>
+- **Global Engineering Challenge Week** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)</span>

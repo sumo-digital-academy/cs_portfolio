@@ -20,4 +20,10 @@
     font-weight: bold;
 }
 
+// Grey italic text for module brackets
+.module-description {
+    color: rgb(152, 152, 152);
+    font-style: italic;
+}
+
 @import 'jekyll-theme-hacker';
