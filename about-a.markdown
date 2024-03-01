@@ -55,7 +55,7 @@ Resilience is particularly important in technology industries which have largely
 <br>
 </div>
 
-## Extra-curricular Activites
+## Extra-curricular Activities
 
 Outside of my studies, I love playing 5-a-side football. It's a great way to stay active and improve my teamwork skills. I'm also a regular at a local board game club, which is a fantastic social activity where I get to relax and enjoy some strategic thinking with friends. These activities provide a healthy balance to my academic pursuits, keeping me refreshed and connected beyond the world of coding.
 
