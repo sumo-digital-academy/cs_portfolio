@@ -23,9 +23,9 @@ Work Experience
 
 
 ## Education
-### Sheffield University
+### The University of Sheffield
 2020 - 2023  
-Ba(hons) - Computer Science
+BSc (Hons) - Computer Science
 
 ### Sheffield College
 2017 - 2020  
