@@ -22,7 +22,7 @@ permalink: /course/
 #### Self-Elected Modules
 -	**3D Computer Graphics** <span class="module-description">(techniques used in modern 3D computer graphics; Programming: Java, OpenGL, GLSL)</span>
 -	**Computer Vision** <span class="module-description">(Programming work uses deep learning tools)</span>
--	**Software Reengineering** <span class="module-description">(how to reverse-engineer and appraise complex, unwieldy systems by implementing source code and execution analysis techniques; strategies that can be used to adapt and reengineer such systems to improve their quality and viability. Practical work using Git repositories)</span>
+-	**Software Reengineering** <span class="module-description">(how to reverse-engineer and appraise complex, unwieldy systems by implementing source code and execution analysis techniques; strategies that can be used to adapt and reengineer such systems to improve their quality and viability; Practical work using Git repositories)</span>
 -	**Software Testing and Analysis** <span class="module-description">(problems and techniques of analysing and testing software systems)</span>
 -	**The Internet of Things** <span class="module-description">(practical hands-on experience of common IoT devices; Practical work involves programming an IoT device and capturing and analysing data)</span>
 -	**Software Development for Mobile Devices** <span class="module-description">(Uses MVC or MVVM when developing software for mobile devices; Practical work develops skills with the Android platform)</span>
@@ -30,13 +30,13 @@ permalink: /course/
 
 ### Year 2
 - **Data Driven Computing** <span class="module-description">(introduction to machine learning and pattern processing, but with a clear emphasis on applications; Programming: Python)</span>
-- **Systems Design and Security** <span class="module-description">(Focus is software systems design; Includes: UML, SQL and agile methods. Programing: Java)</span>
+- **Systems Design and Security** <span class="module-description">(Focus is software systems design; Includes: UML, SQL and agile methods; Programming: Java)</span>
 - **Robotics** <span class="module-description">(design and implementation of the technology underpinning contemporary robotics; multidisciplinary content spanning psychology, human factors, computer science and robotics; Programming: Robot Operating System)</span>
 - **Logic in Computer Science** <span class="module-description">(foundations of logic in computer science)</span>
 - **Functional Programming** <span class="module-description">(Programming: Haskell)</span>
 - **Automata, Computation and Complexity** <span class="module-description">(logical foundations and tools for modelling and analysing computing systems)</span>
 - **Software Hut** <span class="module-description">(group work; covers the processes of engineering a real software system for a client in a competitive environment; Programming: depends on client needs, e.g.  Ruby on Rails; Includes extensive use of version control)</span>
-- **Engineering - You're Hired** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develop students’ academic, transferable and employability skills; Problems provided by industrial partners.)</span>
+- **Engineering - You're Hired** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering; develops students’ academic, transferable and employability skills; problems provided by industrial partners.)</span>
 
 
 ### Year 1
@@ -45,6 +45,6 @@ permalink: /course/
 - **Java Programming** <span class="module-description">(Includes: writing and testing well-structured and readable programs to solve problems; Programming: Java)</span>
 - **Machines and Intelligence** <span class="module-description">(Includes: Intro to key concepts and problems in the field of AI; Lab classes include a range of things such as robotics and use of generative AI tools)</span>
 - **Devices and Networks** <span class="module-description">(Includes: computer architecture and aspects of networks)</span>
-- **Web and Internet Technology** <span class="module-description">(Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Coincides accessibility and legal issues)</span>
+- **Web and Internet Technology** <span class="module-description">(Focus is on front-end development and includes practical work using HTML, CSS and JavaScript to develop websites; Includes: accessibility and legal issues)</span>
 - **Introduction to Algorithms and Data Structures** <span class="module-description">(Includes: design and analysis of efficient algorithms and data structures)</span>
-- **Global Engineering Challenge Week** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering. Develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)</span>
+- **Global Engineering Challenge Week** <span class="module-description">(One week group project done in multi-disciplinary groups in the Faculty of Engineering; develops students’ academic, transferable and employability skills as well as widening horizons as global citizens)</span>

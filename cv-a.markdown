@@ -16,7 +16,7 @@ I am particularly adept at problem-solving and possess a keen analytical mindset
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of computer science.
 
 <div class="annotate-highlight">
-This is a placeholder annotation.
+This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
 <br>
 <br>
 </div>
@@ -28,9 +28,9 @@ Work Experience
 
 
 ## Education
-### Sheffield University
+### The University of Sheffield
 2020 - 2023  
-Ba(hons) - Computer Science
+BSc (Hons) - Computer Science
 
 ### Sheffield College
 2017 - 2020  
