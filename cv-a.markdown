@@ -16,7 +16,9 @@ I am particularly adept at problem-solving and possess a keen analytical mindset
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of game development.
 
 <div class="annotate-highlight">
-This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
+When you submit your CV to a large game studio, it will usually be subject to sifting by the recruitment team before it is seen by the relevant hiring manager. For junior game programmer positions, the recruitment team will typically be looking for C++ experience and a relevant portfolio of programming work - so make sure you make it obvious in your CV that you have these. If they aren't then your application may not get any further. Make sure that the url to your portfolio website is correct and publically accsible (ask a friend to try it). If you are sending a physical CV then shorten urls with a tool like tinyurl to make them easy to type.
+  
+  This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
 <br>
 <br>
 </div>
