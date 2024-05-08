@@ -35,11 +35,19 @@ BSc (Hons) - Computer Science (First Class)
 
 <div class="annotate-highlight">
 As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't get a good grade. You could put an overall percentage here if you thought that was relevant, but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.
-
+</div>
+<br>
+<br>
+<div class="annotate-highlight">
 Be careful to explain qualifications which aren't just a simple BSc or BA honours degree. Employers are often unaware of MComp / BEng / MEng qualifications or what the potential benefits might be, so make sure you make it clear on your CV.
-
+</div>
+<br>
+<br>
+<div class="annotate-highlight">
 Employers are less likely to be aware that postgraduate degrees have classification grades, but you have nothing to lose stating that you achieved a Merit or Distinction. 
-  
+ </div>
+<br>
+<br> 
 </div>
 
 ### Sheffield College
@@ -49,7 +57,8 @@ BTEC Level 3 - Computer Science (Double Distinction)
 <div class="annotate-highlight">
 As a recent graduate, your A-Level or BTEC grades are potentially relevant - particularly in subjects like Physics and Maths. Be careful with BTEC qulifications insofar as employers may assume that a DD is a bad grade, not a double distinction!
 </div>
-
+<br>
+<br>
 
 <div class="annotate-highlight">
 This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
