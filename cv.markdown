@@ -11,7 +11,7 @@ author_profile : true
 ## Professional Summary
 As a recent computer science graduate, I bring a robust skill set in software development, algorithms, and data structures. My academic background has equipped me with a solid foundation in programming languages such as Java, Python, and <span class="text-highlight">C++</span>, and I have successfully applied these skills to various projects throughout my coursework. 
 
-I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with projects outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
+I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with <span class="text-highlight">portfolio projects</span> outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
 
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of game development.
 
