@@ -13,7 +13,7 @@ As a recent computer science graduate, I bring a robust skill set in software de
 
 I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with projects outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
 
-I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of computer science.
+I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of game development.
 
 
 ## Work History
