@@ -14,10 +14,11 @@
     font-weight: bold;
 }
 
-// Blue 'Annotation' highlight
+// Dark Blue 'Annotation' highlight
 .annotate-highlight {
     color: rgb(18, 18, 52);
     font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.5); 
 }
 
 // Grey italic text for module brackets
