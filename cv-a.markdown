@@ -44,9 +44,18 @@ A traditional <a href="https://sumo-digital-academy.github.io/cs_portfolio/cours
 2017 - 2020  
 BTEC Level 3 - Computer Science (Double Distinction)
 
-<div class="annotate-highlight">
-As a recent graduate, your A-Level or BTEC grades are potentially relevant - particularly in subjects like Physics and Maths. Be careful with BTEC qulifications insofar as employers may assume that a DD is a bad grade, not a double distinction!
-</div>
+<span class="annotate-highlight">
+<i>As a recent graduate, your A-Level or BTEC grades are potentially relevant - particularly in subjects like Physics and Maths. Be careful with BTEC qulifications insofar as employers may assume that a DD is a bad grade, not a double distinction!</i>
+</span>
+<br>
+
+### Sheffield Academy School
+2016 - 2017  
+9 GCSEs including Maths (Grade 9 or A**) and English at (Grade 7 or B)
+
+<span class="annotate-highlight">
+<i>By the time you have a degree your GCSE subjects and grades are not particularly relevant to employers apart from Maths and English. If you have completed your GCSEs under the 9-1 grading system then it's worth including their equivalents as A-F grades </i>
+</span>
 <br>
 
 ## Work History
