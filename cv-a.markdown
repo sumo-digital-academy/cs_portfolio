@@ -8,7 +8,7 @@ permalink: /cv-a/
 author_profile : true
 ---
 
-### C++ Portfolio
+## C++ Portfolio
 https://sumo-digital-academy.github.io/cs_portfolio 
 
 ## Professional Summary
