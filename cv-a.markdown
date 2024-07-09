@@ -14,7 +14,7 @@ My website: <a href="https://sumo-digital-academy.github.io/cs_portfolio">http:/
 ## Professional Summary
 As a recent computer science graduate, I bring a robust skill set in software development, algorithms, and data structures. My academic background has equipped me with a solid foundation in programming languages such as Java, Python, and <a href="https://sumo-digital-academy.github.io/cs_portfolio">C++</a>, and I have successfully applied these skills to various projects throughout my degree work and beyond. 
 
-I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with <a href="https://sumo-digital-academy.github.io/cs_portfolio">portfolio projects</a> (see the portfolio link above) outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
+I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with <a href="https://sumo-digital-academy.github.io/cs_portfolio">portfolio projects</a> outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
 
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of game development.
 
@@ -26,6 +26,7 @@ I am confident in my ability to adapt quickly, collaborate effectively, and make
 ### The University of Sheffield
 2020 - 2023  
 BSc (Hons) - Computer Science (First Class)
+A traditional Computer Science degree at a redbrick university. More detail on my course of study can be found <a href="https://sumo-digital-academy.github.io/cs_portfolio/course">here</a>.
 
 <span class="annotate-highlight">
 <i>As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't do very well at your degree. You could also put a single overall figure representing your degree "score" here if you want to (average percentage or gpa), but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.</i>
