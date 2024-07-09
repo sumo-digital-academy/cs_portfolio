@@ -27,7 +27,7 @@ I am confident in my ability to adapt quickly, collaborate effectively, and make
 2020 - 2023  
 BSc (Hons) - Computer Science (First Class)
 <br>
-A traditional Computer Science degree at a redbrick university. More detail on my course of study can be found <a href="https://sumo-digital-academy.github.io/cs_portfolio/course">here</a>.
+A traditional <a href="https://sumo-digital-academy.github.io/cs_portfolio/course">Computer Science degree<\a> at a redbrick university.  
 
 <span class="annotate-highlight">
 <i>As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't do very well at your degree. You could also put a single overall figure representing your degree "score" here if you want to (average percentage or gpa), but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.</i>
