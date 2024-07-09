@@ -9,7 +9,7 @@ author_profile : true
 ---
 
 ## C++ Portfolio
-<a href = https://sumo-digital-academy.github.io/cs_portfolio>http://jobloggs.com/portfolio</href>
+<a href="https://sumo-digital-academy.github.io/cs_portfolio">http://jobloggs.com/portfolio</href>
 
 ## Professional Summary
 As a recent computer science graduate, I bring a robust skill set in software development, algorithms, and data structures. My academic background has equipped me with a solid foundation in programming languages such as Java, Python, and <span class="text-highlight">C++</span>, and I have successfully applied these skills to various projects throughout my degree work and beyond. 
