@@ -1,5 +1,5 @@
 ---
-annotation-link: /cs_portfolio/cv
+annotation-link: /cs_portfolio/cv-a
 
 layout: default
 title: Curriculum Vitae
