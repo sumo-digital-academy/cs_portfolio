@@ -50,5 +50,5 @@ My university journey has enabled me to develop my own strategies for looking af
 Outside of my studies, I love playing 5-a-side football. It's a great way to stay active and improve my teamwork skills. I'm also a regular at a local board game club, which is a fantastic social activity where I get to relax and enjoy some strategic thinking with friends. These activities provide a healthy balance to my academic pursuits, keeping me refreshed and connected beyond the world of coding.
 
 <span class="annotate-highlight">
-<i>Life isn’t just about coding and games and it’s always reassuring to see candidates demonstrate interests outside of their studies. As well as feeding into wellbeing and resilience, broader horizons help developers to be more creative and engage with different kinds of audiences for games.</i>
+<i>Life isn’t just about coding and games and it’s always reassuring to see candidates demonstrate interests outside of their studies. As well as feeding into wellbeing and resilience, broader horizons help developers to be more creative and engage with different kinds of audiences for their games. Exercise is also a good thing to see for the reasons mentioned above.</i>
 </span>
