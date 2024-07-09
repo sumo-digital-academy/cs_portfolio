@@ -12,9 +12,9 @@ author_profile : true
 <a href="https://sumo-digital-academy.github.io/cs_portfolio">http://jobloggs.com/portfolio</a>
 
 ## Professional Summary
-As a recent computer science graduate, I bring a robust skill set in software development, algorithms, and data structures. My academic background has equipped me with a solid foundation in programming languages such as Java, Python, and <span class="text-highlight">C++</span>, and I have successfully applied these skills to various projects throughout my degree work and beyond. 
+As a recent computer science graduate, I bring a robust skill set in software development, algorithms, and data structures. My academic background has equipped me with a solid foundation in programming languages such as Java, Python, and <a href="https://sumo-digital-academy.github.io/cs_portfolio">C++</a>, and I have successfully applied these skills to various projects throughout my degree work and beyond. 
 
-I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with <span class="text-highlight">portfolio projects</span> (see the portfolio link above) outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
+I am particularly adept at problem-solving and possess a keen analytical mindset. My dedication to learning and staying on top of of the latest industry trends is evident in my engagement with <a href="https://sumo-digital-academy.github.io/cs_portfolio">portfolio projects</a> (see the portfolio link above) outside of my degree. With a passion for technology and a drive to contribute to innovative solutions, I am eager to apply my knowledge and skills in a dynamic professional setting. 
 
 I am confident in my ability to adapt quickly, collaborate effectively, and make meaningful contributions to any team or project in the field of game development.
 
