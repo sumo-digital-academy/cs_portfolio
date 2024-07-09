@@ -60,10 +60,11 @@ BTEC Level 3 - Computer Science (Double Distinction)
 
 ## Work History
 ### Multi-National Business Automatons
-Role: Junior Systems Analyst
 Duration: July 2022 - June 2023
+Role: Junior Systems Analyst
 
-As I couldn't get a placement in the games industry, I spent a year at MNBA (a leader in enterprise technology solutions) working in systems analysis and IT consulting. My key responsibilities included:
+I couldn't get a placement in the games industry, so I spent a year working in systems analysis and IT consulting at MNBA (a leader in enterprise technology solutions).
+My key responsibilities included:
 - **System Design & Implementation:** Assisted in creating scalable IT solutions, focusing on cloud computing and ERP systems.
 - **Client Consultation:** Worked with clients to understand their needs, offering technical support and recommendations to enhance their IT infrastructure
 - **Data Analysis:** Performed data analysis to identify performance issues and improvement opportunities, presenting findings to management.
@@ -72,5 +73,5 @@ As I couldn't get a placement in the games industry, I spent a year at MNBA (a l
 This experience provided a strong foundation in systems analysis and project management, equipping me with the skills to address complex IT challenges and contribute effectively to any team.
 
 <div class="annotate-highlight">
-This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
+<i>This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.</i>
 </div>
