@@ -60,8 +60,18 @@ BTEC Level 3 - Computer Science (Double Distinction)
 
 ## Work History
 ### Multi-National Business Automatons
-2022 - 2023
-Work Experience
+Role: Junior Systems Analyst
+Duration: July 2022 - June 2023
+
+During my placement year at MNBA, a leader in enterprise technology solutions, I gained extensive experience in systems analysis and IT consulting. My key responsibilities included:
+    <ul>
+        <li><strong>System Design & Implementation:</strong> Assisted in creating scalable IT solutions, focusing on cloud computing and ERP systems.</li>
+        <li><strong>Client Consultation:</strong> Worked with clients to understand their needs, offering technical support and recommendations to enhance their IT infrastructure.</li>
+        <li><strong>Data Analysis:</strong> Performed data analysis to identify performance issues and improvement opportunities, presenting findings to management.</li>
+        <li><strong>Project Support:</strong> Aided project managers in tracking milestones and deliverables, ensuring projects stayed on schedule and within budget.</li>
+        <li><strong>Technical Documentation:</strong> Created detailed system specifications, user manuals, and troubleshooting guides.</li>
+    </ul>
+This experience provided a strong foundation in systems analysis and project management, equipping me with the skills to address complex IT challenges and contribute effectively to any team.
 
 <div class="annotate-highlight">
 This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
