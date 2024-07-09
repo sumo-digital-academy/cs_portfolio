@@ -70,7 +70,7 @@ My key responsibilities included:
 - **Data Analysis:** Performed data analysis to identify performance issues and improvement opportunities, presenting findings to management.
 - **Project Support:** Aided project managers in tracking milestones and deliverables, ensuring projects stayed on schedule and within budget.
 - **Technical Documentation:** Created detailed system specifications, user manuals, and troubleshooting guides.
-This experience provided a strong foundation in systems analysis and project management, equipping me with the skills to address complex IT challenges and contribute effectively to any team.
+This experience provided a strong foundation in systems analysis equipping me with the skills to address complex IT challenges and contribute effectively to any team.
 
 <div class="annotate-highlight">
 <i>This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.</i>
