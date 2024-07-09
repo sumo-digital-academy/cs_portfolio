@@ -22,18 +22,13 @@ I am confident in my ability to adapt quickly, collaborate effectively, and make
 <i>When you submit your CV to a large game studio, it will usually be subject to sifting by the recruitment team before it is seen by a hiring manager. For junior game programmer positions, the recruitment team will typically be looking for C++ experience and a relevant portfolio of programming work - so make sure you make it obvious early in your CV that you have these - otherwise your application may not get any further! Make sure that the url to your portfolio website is correct and publically accessible (ask a friend to try it). If you are sending a physical CV then shorten your urls with a tool like tinyurl to make them easy for others to type.</i>
 </span>
 
-## Work History
-### Multi-National Business Automatons
-2022 - 2023
-Work Experience
-
 ## Education
 ### The University of Sheffield
 2020 - 2023  
 BSc (Hons) - Computer Science (First Class)
 
 <span class="annotate-highlight">
-<i>As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't get a good grade. You can also put a single overall figure representing your degree "score" here if you thought that was relevant, but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.</i>
+<i>As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't do very well at your degree. You could also put a single overall figure representing your degree "score" here if you want to (average percentage or gpa), but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.</i>
 <br>
 Make sure to explain qualifications which aren't just a simple BSc or BA honours degree. Employers are often unaware of MComp / BEng / MEng qualifications or what the potential benefits might be, so make sure you make it clear on your CV.
 <br>
@@ -49,6 +44,11 @@ BTEC Level 3 - Computer Science (Double Distinction)
 As a recent graduate, your A-Level or BTEC grades are potentially relevant - particularly in subjects like Physics and Maths. Be careful with BTEC qulifications insofar as employers may assume that a DD is a bad grade, not a double distinction!
 </div>
 <br>
+
+## Work History
+### Multi-National Business Automatons
+2022 - 2023
+Work Experience
 
 <div class="annotate-highlight">
 This is a brief summmary of a possible CV. A more detailed CV could be linked to on a different site. Alternatively, the text could say that a more detailed CV is available on request.
