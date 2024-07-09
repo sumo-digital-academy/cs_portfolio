@@ -26,6 +26,7 @@ I am confident in my ability to adapt quickly, collaborate effectively, and make
 ### The University of Sheffield
 2020 - 2023  
 BSc (Hons) - Computer Science (First Class)
+<br>
 A traditional Computer Science degree at a redbrick university. More detail on my course of study can be found <a href="https://sumo-digital-academy.github.io/cs_portfolio/course">here</a>.
 
 <span class="annotate-highlight">
