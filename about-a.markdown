@@ -17,7 +17,7 @@ permalink: /about-a/
 My name is Jo and I'm a Computer Science student at the University of Sheffield with <span class="text-highlight">a huge passion for game development</span>. I love <span class="text-highlight">the mix of tech and creativity that goes into making games</span>. My goal is to use my tech skills to create <span class="text-highlight">mind-blowing gaming experiences</span> for AAA games. This portfolio showcases my most up to date knowledge and skills as I work towards becoming a programmer in the <span class="text-highlight">exciting world of game development</span>.
 
 <span class="annotate-highlight">
-Annotation: Any employer would expect candidates to express enthusiasm for the industry/company they are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.
+<i>Any employer would expect candidates to express enthusiasm for the industry/company they are applying to join, but this is especially true in games where there is significant competition. That doesn’t mean that everyone who works in the industry must be a die-hard gamer, but you do need to be excited about applying your technical skills to creative projects. It isn’t enough to just love playing games.</i>
 </span>
 
 
