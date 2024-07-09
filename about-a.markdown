@@ -9,7 +9,7 @@ permalink: /about-a/
 ![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Profile.png)
 
 <span class="annotate-highlight">
-<i>It can be hard to know what an employer wants to know about you above and beyond your qualifications and work experience, but enthusiasm, self-direction, teamwork and resilience are all valuable attributes worth elaborating on when you have the opportunity to do so. The fiver sections below are designed precisely to emphasise these elements.</i>
+<i>It can be hard to know what an employer wants to know about you above and beyond your qualifications and work experience, but enthusiasm, self-direction, teamwork and resilience are all valuable attributes worth elaborating on when you have the opportunity to do so. The five sections below are designed precisely to emphasise these elements.</i>
 </span>
 
 ## About Me
