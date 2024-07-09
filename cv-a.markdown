@@ -30,7 +30,9 @@ BSc (Hons) - Computer Science (First Class)
 <span class="annotate-highlight">
 <i>As a recent graduate, your undergraduate degree grade is important, and if you miss it off then the employer is likely to assume that you didn't do very well at your degree. You could also put a single overall figure representing your degree "score" here if you want to (average percentage or gpa), but it avoid going into much more detail than that. Listing your marks for every module tends to just highlight your weaknessess rather than your strengths.</i>
 <br>
+<br>
 Make sure to explain qualifications which aren't just a simple BSc or BA honours degree. Employers are often unaware of MComp / BEng / MEng qualifications or what the potential benefits might be, so make sure you make it clear on your CV.
+<br>
 <br>
 Employers are less likely to be aware that postgraduate degrees have classification grades, but you have nothing to lose stating that you achieved a Merit or Distinction. 
 <br>
