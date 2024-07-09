@@ -10,8 +10,6 @@ permalink: /about-a/
 
 <span class="annotate-highlight">
 <b>Annotation:</b> It can be hard to know what an employer wants to know about you above and beyond your qualifications and work experience, but enthusiasm, self-direction, teamwork and resilience are all valuable attributes worth elaborating on when you have the opportunity to do so.
-<br>
-<br>
 </span>
 
 ## About Me
