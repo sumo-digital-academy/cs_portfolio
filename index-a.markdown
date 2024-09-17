@@ -61,7 +61,7 @@ This is a placeholder annotation.
 
 <p class="project-title">AAA-mazing Grace: <span class="project-type">Unreal C++ Project</span></p>
 
-![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
+![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/SnakeParty.mp4)
 
 <div class="project-desc" markdown="1">
 - Group project: I coded the procedural maze generation
