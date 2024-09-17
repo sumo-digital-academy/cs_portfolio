@@ -56,7 +56,7 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 <p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
 
 <video width="600" controls>
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/SnakeParty.mp4" type="video/mp4">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Snake%20Party.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
