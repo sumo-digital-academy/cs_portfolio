@@ -59,12 +59,13 @@ This is a placeholder annotation.
 
 ----------------------
 
-<p class="project-title">AAA-mazing Grace: <span class="project-type">Unreal C++ Project</span></p>
+<p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
 
 ![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/SnakeParty.mp4)
 
 <div class="project-desc" markdown="1">
-- Group project: I coded the procedural maze generation
+- Group project: The originally started this project as a Ludem Dare game and then continued its development over 6 weeks to completion. 
+- My role involved creating the system which detected collisions between snakes and switched modes to chase / run accordingly.
 - Demonstrates custom Blueprint nodes written in C++
 - Full project download <a href="https://www.example.com">HERE</a> (8GB)
 </div>
