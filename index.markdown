@@ -53,12 +53,16 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 
 ----------------------
 
-<p class="project-title">AAA-mazing Grace: <span class="project-type">Unreal C++ Project</span></p>
+<p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
 
-![ScreenshotB-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
+<video width="600" controls>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/SnakeParty.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div class="project-desc" markdown="1">
-- Group project: I coded the procedural maze generation
+- Group project: The originally started this project as a Ludem Dare game and then continued its development over 6 weeks to completion. 
+- My role involved creating the system which detected collisions between snakes and switched modes to chase / run accordingly.
 - Demonstrates custom Blueprint nodes written in C++
 - Full project download <a href="https://www.example.com">HERE</a> (8GB)
 </div>
