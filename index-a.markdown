@@ -16,26 +16,21 @@ permalink: /index-a/
   
   .project-type
   {
-	color: rgb(181, 232, 83);
+	color: rgb(159, 203, 248);
   }
   
   .project-desc
   {
 	text-align: left;  
-	font-style: italic;
-	color: grey;
+	color: white;
   }
   
   .project-link, .project-link:visited
   {
-	font-style: italic;
-	color: rgb(181, 232, 83);
-  text-decoration: none;
+	color: rgb(99, 192, 245);
+  	text-decoration: underlined;
   }
-  .project-link:hover
-  {
-    text-decoration: underline;
-  }  
+
 </style>
 
 
