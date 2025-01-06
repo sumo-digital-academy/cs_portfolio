@@ -41,7 +41,7 @@ permalink: /
 
 <p class="project-title">Derrickman: <span class="project-type">Pure C++ Project</span></p>
 
-<video width="600" controls loop autoplay>
+<video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Oil Strike 75.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -61,7 +61,7 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 
 <p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
 
-<video width="600" controls loop autoplay>
+<video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Snake%20Party.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -79,7 +79,7 @@ Access the GitHub repository with just my C++ code <a href="https://www.example.
 
 <p class="project-title">Maths Buster: <span class="project-type">Unity C# Project</span></p>
 
-<video width="600" controls loop autoplay>
+<video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Gardeners of the Galaxy.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
