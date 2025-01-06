@@ -77,13 +77,16 @@ Access the GitHub repository with just my C++ code <a href="https://www.example.
 
 ----------------------
 
-<p class="project-title">Indie-Spensable: <span class="project-type">Unity C# Project</span></p>
+<p class="project-title">Maths Buster: <span class="project-type">Unity C# Project</span></p>
 
-![ScreenshotC-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
+<video width="600" controls loop autoplay>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Gardeners of the Galaxy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div class="project-desc" markdown="1">
-- Individual project coded completely by me
-- Demonstrates use of Unity DOTS
+- Individual project into educational games coded completely by me
+- Demonstrates use of Unity and adaptive difficulty algorithms
 - Full project download <a href="https://www.example.com">HERE</a> (2GB)
 </div>
  
