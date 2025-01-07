@@ -53,7 +53,7 @@ permalink: /
 - Implemented an analytics system to visualise heatmap data for player deaths
 </div>
 
-Game download <a href="https://www.example.com">HERE</a> (4MB)
+Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
 
 ----------------------
@@ -75,7 +75,7 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 - The team is working towards releasing the game on Steam
 </div>
  
-Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
+Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a> <br>
 Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 ----------------------
@@ -94,6 +94,6 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 - A paper written on the game was presented at the ECGBL conference in Spain
 </div>
  
-Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a>
+Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a> <br>
 Full project download <a href="https://www.example.com">HERE</a> (2GB)
 
