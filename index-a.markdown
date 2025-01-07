@@ -94,7 +94,7 @@ Access the GitHub repository with just my C++ code <a href="https://www.example.
 Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 <span class="annotate-highlight">
-<i>Game programmers need to be able to work well with team members across different disciplines, including artists and designers. A fast and fun way to get this kind of experience is to take part in a Game Jam. Make sure you work in a multi-disciplinary team including artists and designers, and not just other coders—as this is a key experience to be able to talk about at interview. Try and team up with other students building their portfolios, as it's well worth spending additional time tidying up the project after the jam to make it portfolio-worthy. Finally, for a group project, make sure that you are very clear in your portfolio which of the game's features and code you worked on personally.</i>i>
+<i>Game programmers need to be able to work well with team members across different disciplines, including artists and designers. A fast and fun way to get this kind of experience is to take part in a Game Jam. Make sure you work in a multi-disciplinary team including artists and designers, and not just other coders—as this is a key experience to be able to talk about at interview. Try and team up with other students building their portfolios, as it's well worth spending additional time tidying up the project after the jam to make it portfolio-worthy. Finally, for a group project, make sure that you are very clear in your portfolio which of the game's features and code you worked on personally.</i>
 </span>
 
 ----------------------
@@ -107,7 +107,7 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i></i>
+<i>The video shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i>
 </span>
 
 <br>
