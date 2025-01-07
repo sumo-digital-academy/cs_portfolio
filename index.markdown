@@ -6,7 +6,7 @@ title: Portfolio
 permalink: /
 ---
 
-<p class="project-title">Derrickman: <span class="project-type">Pure C++ Project</span></p>
+## Derrickman: Pure C++ Project
 
 <video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Oil Strike 75.mp4" type="video/mp4">
