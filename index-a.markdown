@@ -3,7 +3,7 @@ annotation-link: /cs_portfolio/index
 
 layout: default
 title: Portfolio
-permalink: /
+permalink: /index-a/
 ---
 
 <style>
