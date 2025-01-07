@@ -50,6 +50,8 @@ permalink: /index-a/
 <i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
 </span>
 
+<br>
+
 <div class="project-desc" markdown="1">
 - Personal Project: A small retro-inspired game coded completely by me using C++
 - Demonstrates the use of DirectX 11 and my own shaders
@@ -79,6 +81,8 @@ The video shows the Derrickman level from Oil Strike 75, which is a game made by
 <i>The video shows the <a href="https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/">Snake Party</a>game, created by apprentices at the Sumo-Digital Academy (entirely in C++ and not Unreal).</i>
 </span>
 
+<br>
+
 <div class="project-desc" markdown="1">
 - Group project: Originally a Ludem Dare game which my team continues to develop for 3 months 
 - My role involved creating the semented physics and collision system for the snakes
@@ -105,6 +109,8 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 <span class="annotate-highlight">
 <i>The video shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i></i>
 </span>
+
+<br>
 
 <div class="project-desc" markdown="1">
 - Final Year Individual Project: An educational mathematics game coded completely by me in C#
