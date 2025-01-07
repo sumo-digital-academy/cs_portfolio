@@ -24,8 +24,8 @@ permalink: /
 
 <i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features and high-level gameplay systems in pure C++.</i>
 
-- Access the GitHub repository HERE [not a real link]
-- Game download HERE (4MB) [not a real link]
+- Access the GitHub repository HERE <span class="module-description">[not a real link]</span>
+- Game download HERE (4MB) <span class="module-description">[not a real link]</span>
 
 ----------------------
 
@@ -50,8 +50,8 @@ permalink: /
 
 <i>Collaborating in a team environment, I focused on clean, maintainable C++ code that integrates seamlessly with Unreal Engine 5. This project demonstrates my ability to handle complex gameplay mechanics and contribute to a long-term, team-driven development effort aiming for a Steam release.</i>
  
-- Access the GitHub repository with just my C++ code HERE [not a real link]
-- Full UE5 project download HERE (8GB) [not a real link]
+- Access the GitHub repository with just my C++ code HERE <span class="module-description">[not a real link]</span>
+- Full UE5 project download HERE (8GB) <span class="module-description">[not a real link]</span>
 
 ----------------------
 
@@ -73,6 +73,6 @@ permalink: /
 
 <i>Building the game entirely in Unity and C#, I honed my skills in both gameplay programming and creating meaningful user experiences. This project not only earned academic recognition but also deepened my understanding of integrating educational theory with game design.</i>
  
-- Access the GitHub repository with just my C# code HERE [not a real link]
-- Full project download HERE (2GB) [not a real link]
+- Access the GitHub repository with just my C# code HERE <span class="module-description">[not a real link]</span>
+- Full project download HERE (2GB) <span class="module-description">[not a real link]</span>
 
