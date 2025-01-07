@@ -47,7 +47,7 @@ permalink: /index-a/
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and<a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/"> published on Steam.</a></i>
+<i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
 </span>
 
 <br>
@@ -64,7 +64,6 @@ Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 
 <span class="annotate-highlight">
 <i>Every game programming portfolio should contain a good-sized project written completely in C++ unless you are exclusively targeting small, indie game development companies. You are unlikely to be interviewed at larger companies without this. If you've not found a way to use C++ in your degree assignments, then you could try using <a href="https://github.com/sumo-digital-academy/playbuffer">The PlayBuffer C++ Framework</a> to create a simple 2D game. When making a portfolio game the complexity is often less important than the level of finish: a half-broken GTA clone is less likely to impress than a polished 2D Super Mario Bros clone (circa 1985). If you are making a tech demo then make sure you are using recent versions of relevant APIs: not something 5 years out of date.</i>
-The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
 </span>
 
 ----------------------
