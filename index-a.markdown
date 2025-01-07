@@ -1,5 +1,5 @@
 ---
-annotation-link: /cs_portfolio/index-a
+annotation-link: /cs_portfolio/index
 
 layout: default
 title: Portfolio
