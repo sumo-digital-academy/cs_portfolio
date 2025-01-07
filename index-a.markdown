@@ -47,7 +47,7 @@ permalink: /index-a/
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
+<i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and<a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/"> published on Steam.</a></i>
 </span>
 
 <br>
@@ -78,7 +78,7 @@ The video shows the Derrickman level from Oil Strike 75, which is a game made by
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the <a href="https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/">Snake Party</a>game, created by apprentices at the Sumo-Digital Academy (entirely in C++ and not Unreal).</i>
+<i>The video shows the <a href="https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/">Snake Party</a> game, created by apprentices at the Sumo-Digital Academy (entirely in C++ and not Unreal).</i>
 </span>
 
 <br>
