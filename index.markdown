@@ -6,39 +6,6 @@ title: Portfolio
 permalink: /
 ---
 
-<style>
-  .project-title
-  {
-    font-size: 24px;
-	font-weight: bold;
-	padding-top: 10px;
-  }
-  
-  .project-type
-  {
-	color: rgb(181, 232, 83);
-  }
-  
-  .project-desc
-  {
-	text-align: left;  
-	font-style: italic;
-	color: grey;
-  }
-  
-  .project-link, .project-link:visited
-  {
-	font-style: italic;
-	color: rgb(181, 232, 83);
-  text-decoration: none;
-  }
-  .project-link:hover
-  {
-    text-decoration: underline;
-  }  
-</style>
-
-
 <p class="project-title">Derrickman: <span class="project-type">Pure C++ Project</span></p>
 
 <video width="600" controls loop autoplay muted playsinline>
