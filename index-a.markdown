@@ -47,7 +47,7 @@ permalink: /index-a/
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
+<i>The video actually shows the Derrickman level from Oil Strike 75, which is a game made by apprentices at the Sumo-Digital Academy and <a href="https://store.steampowered.com/app/2740090/Oil_Strike_75/">published on Steam.</a></i>
 </span>
 
 <br>
@@ -77,7 +77,7 @@ Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the <a href="https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/">Snake Party</a> game, created by apprentices at the Sumo-Digital Academy (entirely in C++ and not Unreal).</i>
+<i>The video actually shows the <a href="https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/">Snake Party</a> game, created by apprentices at the Sumo-Digital Academy (entirely in C++ and not Unreal).</i>
 </span>
 
 <br>
@@ -106,7 +106,7 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 </video>
 
 <span class="annotate-highlight">
-<i>The video shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i>
+<i>The video actually shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i>
 </span>
 
 <br>
