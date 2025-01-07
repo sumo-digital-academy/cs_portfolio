@@ -53,8 +53,8 @@ permalink: /
 - Implemented an analytics system to visualise heatmap data for player deaths
 </div>
 
-Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
+Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 
 ----------------------
 
