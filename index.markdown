@@ -47,11 +47,13 @@ permalink: /
 </video>
 
 <div class="project-desc" markdown="1">
-- A small C++ game coded completely by me
-- Demonstrates use of DirectX 11 and my own shaders
+- A small retro-inspired game coded completely by me using C++
+- Demonstrates the use of DirectX 11 and my own shaders
 - Includes OO C++ features like polymorphism and inheritance
+- Implemented an analytics system to visualise heatmap data for player deaths
 </div>
- 
+
+Game download <a href="https://www.example.com">HERE</a> (4MB)
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
 
 ----------------------
@@ -67,13 +69,14 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 </video>
 
 <div class="project-desc" markdown="1">
-- Group project: The team originally started this project as a Ludem Dare game and then continued its development over 6 weeks to completion. 
-- My role involved creating the system which detected collisions between snakes and switched modes to chase / run accordingly.
-- Demonstrates custom Blueprint nodes written in C++
-- Full project download <a href="https://www.example.com">HERE</a> (8GB)
+- Group project: A Ludem Dare game which my team continues to develop for another 3 months afterwards
+- My role involved creating the system which modelled the semented physics and collision for the snakes
+- Demonstrates custom Blueprint nodes written in C++ (minimal Blueprints used)
+- 
 </div>
  
 Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
+Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 ----------------------
 
