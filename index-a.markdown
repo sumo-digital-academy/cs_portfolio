@@ -1,9 +1,9 @@
 ---
-annotation-link: /cs_portfolio/index
+annotation-link: /cs_portfolio/index-a
 
 layout: default
 title: Portfolio
-permalink: /index-a/
+permalink: /
 ---
 
 <style>
@@ -16,70 +16,84 @@ permalink: /index-a/
   
   .project-type
   {
-	color: rgb(159, 203, 248);
+	color: rgb(181, 232, 83);
   }
   
   .project-desc
   {
 	text-align: left;  
-	color: white;
+	font-style: italic;
+	color: grey;
   }
   
   .project-link, .project-link:visited
   {
-	color: rgb(99, 192, 245);
-  	text-decoration: underlined;
+	font-style: italic;
+	color: rgb(181, 232, 83);
+  text-decoration: none;
   }
-
+  .project-link:hover
+  {
+    text-decoration: underline;
+  }  
 </style>
 
 
-<p class="project-title">Spoof Invaders: <span class="project-type">Pure C++ Project</span></p>
+<p class="project-title">Derrickman: <span class="project-type">Pure C++ Project</span></p>
 
-![ScreenshotA-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
-
-<div class="project-desc" markdown="1">
-- A small C++ game coded completely by me
-- Demonstrates use of DirectX 11 and my own shaders
-- Includes OO C++ features like polymorphism and inheritance
-</div>
- 
-Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
-
-<div class="annotate-highlight">
-This is a placeholder annotation.
-<br>
-<br>
-</div>
-
-----------------------
-
-<p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
-
-<video width="600" controls>
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/SnakeParty.mp4" type="video/mp4">
+<video width="600" controls loop autoplay muted playsinline>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Oil Strike 75.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <div class="project-desc" markdown="1">
-- Group project: The originally started this project as a Ludem Dare game and then continued its development over 6 weeks to completion. 
-- My role involved creating the system which detected collisions between snakes and switched modes to chase / run accordingly.
-- Demonstrates custom Blueprint nodes written in C++
-- Full project download <a href="https://www.example.com">HERE</a> (8GB)
+- Personal Project: A small retro-inspired game coded completely by me using C++
+- Demonstrates the use of DirectX 11 and my own shaders
+- Includes OO C++ features like polymorphism and inheritance
+- Implemented an analytics system to visualise heatmap data for player deaths
 </div>
- 
-Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
+
+Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
+Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 
 ----------------------
 
-<p class="project-title">Indie-Spensable: <span class="project-type">Unity C# Project</span></p>
 
-![ScreenshotC-Image]({{ site.url }}{{ site.baseurl }}/assets/images/Screenshot.png)
+
+
+<p class="project-title">Get A Wiggle On: <span class="project-type">Unreal C++ Project</span></p>
+
+<video width="600" controls loop autoplay muted playsinline>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Snake%20Party.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div class="project-desc" markdown="1">
-- Individual project coded completely by me
-- Demonstrates use of Unity DOTS
-- Full project download <a href="https://www.example.com">HERE</a> (2GB)
+- Group project: Originally a Ludem Dare game which my team continues to develop for 3 months 
+- My role involved creating the semented physics and collision system for the snakes
+- Demonstrates custom Blueprint nodes written in C++ (minimal Blueprints used)
+- The team is working towards releasing the game on Steam
 </div>
  
-Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a>
+Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a> <br>
+Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
+
+----------------------
+
+<p class="project-title">Maths Buster: <span class="project-type">Unity C# Project</span></p>
+
+<video width="600" controls loop autoplay muted playsinline>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Gardeners of the Galaxy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<div class="project-desc" markdown="1">
+- Final Year Individual Project: An educational mathematics game coded completely by me in C#
+- Demonstrates use of Unity and adaptive difficulty algorithms
+- I recieved a 74% overall mark for individual project work
+- A paper written on the game was presented at the ECGBL conference in Spain
+</div>
+ 
+Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a> <br>
+Full project download <a href="https://www.example.com">HERE</a> (2GB)
+
