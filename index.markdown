@@ -22,7 +22,7 @@ permalink: /
 
 <i>This project involved creating a robust GameObject class hierarchy from scratch, showcasing Object-Oriented Programming principles like polymorphism and inheritance. I implemented a base GameObject class with shared functionality and extended it for specific game elements like the player, enemies, and interactable objects, ensuring efficient and consistent behavior.</i>
 
-<i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features (DirectX 11, custom shaders) and high-level gameplay systems in pure C++.</i>
+<i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features and high-level gameplay systems in pure C++.</i>
 
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
 Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
@@ -32,7 +32,7 @@ Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 
 
 
-<p class="project-title">Get A Wiggle On: <span class="project-type">Unreal C++ Project</span></p>
+## Get A Wiggle On: Unreal C++ Project
 
 <video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Snake%20Party.mp4" type="video/mp4">
@@ -55,7 +55,7 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 ----------------------
 
-<p class="project-title">Maths Buster: <span class="project-type">Unity C# Project</span></p>
+## Maths Buster: Unity C# Project
 
 <video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Gardeners of the Galaxy.mp4" type="video/mp4">
