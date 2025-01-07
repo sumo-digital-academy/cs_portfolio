@@ -47,7 +47,7 @@ permalink: /
 </video>
 
 <div class="project-desc" markdown="1">
-- A small retro-inspired game coded completely by me using C++
+- Personal Project: A small retro-inspired game coded completely by me using C++
 - Demonstrates the use of DirectX 11 and my own shaders
 - Includes OO C++ features like polymorphism and inheritance
 - Implemented an analytics system to visualise heatmap data for player deaths
@@ -61,7 +61,7 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 
 
 
-<p class="project-title">Snake Party: <span class="project-type">Unreal C++ Project</span></p>
+<p class="project-title">Get A Wiggle On: <span class="project-type">Unreal C++ Project</span></p>
 
 <video width="600" controls loop autoplay muted playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/Snake%20Party.mp4" type="video/mp4">
@@ -69,10 +69,10 @@ Access the GitHub repository <a href="https://www.example.com" class="project-li
 </video>
 
 <div class="project-desc" markdown="1">
-- Group project: A Ludem Dare game which my team continues to develop for another 3 months afterwards
-- My role involved creating the system which modelled the semented physics and collision for the snakes
+- Group project: Originally a Ludem Dare game which my team continues to develop for 3 months 
+- My role involved creating the semented physics and collision system for the snakes
 - Demonstrates custom Blueprint nodes written in C++ (minimal Blueprints used)
-- 
+- The team is working towards releasing the game on Steam
 </div>
  
 Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
@@ -88,9 +88,12 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 </video>
 
 <div class="project-desc" markdown="1">
-- Individual project into educational games coded completely by me
+- Final Year Individual Project: An educational mathematics game coded completely by me in C#
 - Demonstrates use of Unity and adaptive difficulty algorithms
-- Full project download <a href="https://www.example.com">HERE</a> (2GB)
+- I recieved a 74% overall mark for individual project work
+- A paper written on the game was presented at the ECGBL conference in Spain
 </div>
  
 Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a>
+Full project download <a href="https://www.example.com">HERE</a> (2GB)
+
