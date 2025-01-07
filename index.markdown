@@ -24,8 +24,8 @@ permalink: /
 
 <i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features and high-level gameplay systems in pure C++.</i>
 
-Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a><br>
-Game download <a href="https://www.example.com">HERE</a> (4MB)
+- Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
+- Game download <a href="https://www.example.com">HERE</a> (4MB)
 
 ----------------------
 
@@ -50,8 +50,8 @@ Game download <a href="https://www.example.com">HERE</a> (4MB)
 
 <i>Collaborating in a team environment, I focused on clean, maintainable C++ code that integrates seamlessly with Unreal Engine 5. This project demonstrates my ability to handle complex gameplay mechanics and contribute to a long-term, team-driven development effort aiming for a Steam release.</i>
  
-Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a> <br>
-Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
+- Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
+- Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 ----------------------
 
@@ -73,6 +73,6 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 
 <i>Building the game entirely in Unity and C#, I honed my skills in both gameplay programming and creating meaningful user experiences. This project not only earned academic recognition but also deepened my understanding of integrating educational theory with game design.</i>
  
-Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a> <br>
-Full project download <a href="https://www.example.com">HERE</a> (2GB)
+- Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a>
+- Full project download <a href="https://www.example.com">HERE</a> (2GB)
 
