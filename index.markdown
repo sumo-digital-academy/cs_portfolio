@@ -24,8 +24,8 @@ permalink: /
 
 <i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features and high-level gameplay systems in pure C++.</i>
 
-Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
-Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
+Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a><br>
+Game download <a href="https://www.example.com">HERE</a> (4MB)
 
 ----------------------
 
