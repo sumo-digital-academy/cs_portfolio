@@ -24,8 +24,8 @@ permalink: /
 
 <i>I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features and high-level gameplay systems in pure C++.</i>
 
-- Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
-- Game download <a href="https://www.example.com">HERE</a> (4MB)
+- Access the GitHub repository HERE [not a real link]
+- Game download HERE (4MB) [not a real link]
 
 ----------------------
 
@@ -41,7 +41,7 @@ permalink: /
 
 <div class="project-desc" markdown="1">
 - Group project: Originally a Ludem Dare game which my team continues to develop for 3 months 
-- My role involved creating the semented physics and collision system for the snakes
+- My role involved creating the segmented physics and collision system for the snakes
 - Demonstrates custom Blueprint nodes written in C++ (minimal Blueprints used)
 - The team is working towards releasing the game on Steam
 </div>
@@ -50,8 +50,8 @@ permalink: /
 
 <i>Collaborating in a team environment, I focused on clean, maintainable C++ code that integrates seamlessly with Unreal Engine 5. This project demonstrates my ability to handle complex gameplay mechanics and contribute to a long-term, team-driven development effort aiming for a Steam release.</i>
  
-- Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a>
-- Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
+- Access the GitHub repository with just my C++ code HERE [not a real link]
+- Full UE5 project download HERE (8GB) [not a real link]
 
 ----------------------
 
@@ -65,7 +65,7 @@ permalink: /
 <div class="project-desc" markdown="1">
 - Final Year Individual Project: An educational mathematics game coded completely by me in C#
 - Demonstrates use of Unity and adaptive difficulty algorithms
-- I recieved a 74% overall mark for individual project work
+- I received an 84% overall mark for individual project work
 - A paper written on the game was presented at the ECGBL conference in Spain
 </div>
 
@@ -73,6 +73,6 @@ permalink: /
 
 <i>Building the game entirely in Unity and C#, I honed my skills in both gameplay programming and creating meaningful user experiences. This project not only earned academic recognition but also deepened my understanding of integrating educational theory with game design.</i>
  
-- Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a>
-- Full project download <a href="https://www.example.com">HERE</a> (2GB)
+- Access the GitHub repository with just my C# code HERE [not a real link]
+- Full project download HERE (2GB) [not a real link]
 
