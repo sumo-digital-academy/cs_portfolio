@@ -20,6 +20,10 @@ permalink: /
 - Implemented an analytics system to visualise heatmap data for player deaths
 </div>
 
+This project involved creating a robust GameObject class hierarchy from scratch, showcasing Object-Oriented Programming principles like polymorphism and inheritance. I implemented a base GameObject class with shared functionality and extended it for specific game elements like the player, enemies, and interactable objects, ensuring efficient and consistent behavior.
+
+I also developed an analytics system to log and visualize player deaths via heatmaps, combining gameplay programming with data-driven insights. This project highlights my ability to design and implement both low-level engine features (DirectX 11, custom shaders) and high-level gameplay systems in pure C++.
+
 Access the GitHub repository <a href="https://www.example.com" class="project-link">HERE</a>
 Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 
@@ -41,6 +45,10 @@ Game download <a href="https://www.example.com">HERE</a> (4MB) <br>
 - Demonstrates custom Blueprint nodes written in C++ (minimal Blueprints used)
 - The team is working towards releasing the game on Steam
 </div>
+
+In this project, I designed the segmented physics and collision system that drives the snakes’ dynamic, lifelike movement, tackling the challenges of ensuring stability across linked segments. My work extended Unreal's capabilities by writing custom Blueprint nodes in C++, allowing the team to streamline gameplay programming while minimizing reliance on traditional Blueprints.
+
+Collaborating in a team environment, I focused on clean, maintainable C++ code that integrates seamlessly with Unreal Engine 5. This project demonstrates my ability to handle complex gameplay mechanics and contribute to a long-term, team-driven development effort aiming for a Steam release.
  
 Access the GitHub repository with just my C++ code <a href="https://www.example.com" class="project-link">HERE</a> <br>
 Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
@@ -60,6 +68,10 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 - I recieved a 74% overall mark for individual project work
 - A paper written on the game was presented at the ECGBL conference in Spain
 </div>
+
+This project explored how adaptive difficulty algorithms could enhance engagement in educational games. I designed a system that dynamically adjusted challenges based on player performance, balancing learning and enjoyment. Beyond development, I analyzed player data to refine mechanics, contributing to a conference paper presented at ECGBL in Spain.
+
+Building the game entirely in Unity and C#, I honed my skills in both gameplay programming and creating meaningful user experiences. This project not only earned academic recognition but also deepened my understanding of integrating educational theory with game design.
  
 Access the GitHub repository with just my C# code <a href="https://www.example.com" class="project-link">HERE</a> <br>
 Full project download <a href="https://www.example.com">HERE</a> (2GB)
