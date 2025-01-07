@@ -106,7 +106,7 @@ Full UE5 project download <a href="https://www.example.com">HERE</a> (8GB)
 </video>
 
 <span class="annotate-highlight">
-<i>The video actually shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxyy</a> game, created by Martyn Mees et al.</i>
+<i>The video actually shows the <a href="https://dl.acm.org/doi/abs/10.1145/3130859.3131315">Gardeners of the Galaxy</a> game, created by Martyn Mees et al.</i>
 </span>
 
 <br>
